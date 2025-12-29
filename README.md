@@ -44,14 +44,24 @@
 
 ###
 
-<h2 align="left">You can find me on</h2>
-
-###
+<h2 align="left">Connect with me</h2>
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/krishna-tamang03" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/krishna-tamang03" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.instagram.com/sanjay_tamang03/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="52" height="40" alt="instagram logo" />
+  </a>
+
+  <a href="https://www.facebook.com/sanjay.theeng.777" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+         width="52" height="40" alt="facebook logo" />
+  </a>
 </div>
+
 
 ###
